@@ -8,4 +8,4 @@
 - probability calcualtion of profits and losses
 - overall portfolio analysis and visualization
 
-source: Yahoo finance 
+Source: Yahoo finance 
